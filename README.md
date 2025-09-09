@@ -1,6 +1,6 @@
 # CPE451-FreshTrack-app
 
-<img src="./assets/GIFPic/freshtrack.gif" alt="FreshTrack Demo" width="300"/>
+<img src="./assets/GIFPic/freshtrack.gif" alt="FreshTrack Demo" width="400"/>
 
 ## Application's Functions
 - Sign Up
