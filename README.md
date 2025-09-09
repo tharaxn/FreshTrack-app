@@ -1,18 +1,16 @@
-﻿# CPE451-FreshTrack-app
+# CPE451-FreshTrack-app
 
-![FreshTrack Demo](./assets/GIFPic/freshtrack.gif)
+<img src="./assets/GIFPic/freshtrack.gif" alt="FreshTrack Demo" width="300"/>
 
-## Application'S Function
+## Application's Functions
 - Sign Up
 - Log in
-  
 - Home Page
   - Search
   - Calendar
   - Coupons
   - Category
   - Expiration preview
- 
 - Menu Bar
   - Home
   - Unit Conversion
